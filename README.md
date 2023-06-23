@@ -1,1 +1,1 @@
-# my-foo-repo
+# my-foo-company/my-foo-repo
